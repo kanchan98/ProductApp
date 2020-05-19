@@ -1,0 +1,183 @@
+﻿@model ProductApp.Models.Products
+
+@{
+    ViewData["Title"] = "Edit";
+}
+<head>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+</head>
+<div class="row">
+    <div class="col-md-12 col-xs-12">
+
+
+        <h3 class="" style="text-align:center">Product Edit</h3>
+        <br /><br />
+        <div class="clearfix"></div>
+
+        <form asp-action="Edit">
+            <div class="row">
+                <div class="col-lg-12">
+                    <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                    @{if (ViewBag.Notification != null)
+                        {
+                            <div id="ErrorPanel" class="@ViewBag.Notification.TypeRender">
+                                @ViewBag.Notification.MessageRender
+                            </div>
+                        }
+                        else
+                        {
+                            <div id="ErrorPanel">
+                            </div>
+                        } }
+                </div>
+            </div>
+
+            <div class="row">
+                <div class="col-lg-6 col-md-4">
+                    <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+                    <div class="form-group">
+                        <label asp-for="Name" class="control-label"></label>
+                        <span style="color:red">*</span>
+                        <input asp-for="Name" class="form-control" />
+                        <span asp-validation-for="Name" class="text-danger"></span>
+                    </div>
+                    <div class="form-group">
+                        <label asp-for="Price" class="control-label"></label>
+                        <span style="color:red">*</span>
+                        <input asp-for="Price" class="form-control" />
+                        <span asp-validation-for="Price" class="text-danger"></span>
+                    </div>
+                    <div class="form-group">
+                        <label asp-for="Quantity" class="control-label"></label>
+                        <span style="color:red">*</span>
+                        <input asp-for="Quantity" class="form-control" />
+                        <span asp-validation-for="Quantity" class="text-danger"></span>
+                    </div>
+                    <div class="form-group">
+                        <div class="row">
+                            <div class="col-md-4">
+                                @Html.LabelFor(model => model.IsGSTApplicable)
+                                <span style="color:red">*</span>
+                            </div>
+                            <div class="col-md-4">
+                                Yes
+                                @Html.RadioButtonFor(model => model.IsGSTApplicable, "Yes")
+                                No
+                                @Html.RadioButtonFor(model => model.IsGSTApplicable, "No")
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-6 col-md-4">
+                    <div class="form-group">
+                        <label asp-for="Purchase_Date" class="control-label"></label>
+                        <span style="color:red">*</span>
+                        <input type="text" asp-for="Purchase_Date" placeholder="Choose Purchase Date" class="form-control" id="purchaseDate" />
+
+                        <span asp-validation-for="Purchase_Date" class="text-danger"></span>
+                    </div>
+                    <div class="form-group">
+                        <label asp-for="Expiry_Date" class="control-label"></label>
+                        <span style="color:red">*</span>
+                        <input type="text" asp-for="Expiry_Date" placeholder="Choose Expiry Date" class="form-control" id="expiryDate" />
+
+                        <span asp-validation-for="Expiry_Date" class="text-danger"></span>
+                    </div>
+                    <div class="form-group">
+                        <label asp-for="Color" class="control-label"></label>
+
+                        <select asp-for="Color" class="form-control">
+                            <option value="Red"> Red </option>
+                            <option value="Blue"> Blue </option>
+                            <option value="Pink"> Pink </option>
+                            <option value="White"> White </option>
+                            <option value="Black"> Black </option>
+                            <option value="Yellow"> Yellow </option>
+                            <option value="Purple"> Purple </option>
+                        </select>
+                        <span asp-validation-for="Color" class="text-danger"></span>
+                    </div>
+                    <div class="form-group">
+                        <label asp-for="Status" class="control-label"></label>
+                        <select asp-for="Status" class="form-control">
+                            <option value="Active"> Active </option>
+                            <option value="Disabled" disabled> Disabled </option>
+
+                        </select>
+                        <span asp-validation-for="Status" class="text-danger"></span>
+                    </div>
+                </div>
+                <div class="form-group">
+                    <input type="submit" value="Save" class="btn btn-primary" />
+                </div>
+            </div>
+        </form>
+
+    </div>
+
+    <a asp-action="Index">Back to List</a>
+</div>
+
+
+
+@section Scripts
+    {
+    <link href="~/Layouts/vendor/jquery/css/jquery-ui.css" rel="stylesheet">
+    <script src="/Layouts/vendor/jquery/jquery-ui.js"></script>
+
+
+    <link rel="stylesheet" href="//code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css">
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+
+
+    <script type="text/javascript">
+
+        $(document).ready(function () {
+            var unavailableDates = ["19-2-2015", "20-2-2015", "23-2-2015", "24-2-2015"]
+
+            function unavailable(date) {
+                dmy = date.getDate() + "-" + (date.getMonth() + 1) + "-" + date.getFullYear();
+                if (jQuery.inArray(dmy, unavailableDates) == -1) {
+                    return [true, ""];
+                } else {
+                    return [false, "", "Unavailable"];
+                }
+            }
+
+            $(function () {
+                $("#purchaseDate").datepicker({
+
+                    defaultDate: "+1w",
+                    maxDate: 0,
+                    changeMonth: true,
+                    changeYear: true,
+                    beforeShowDay: unavailable,
+                    numberOfMonths: 1,
+                    dateFormat: 'dd/mm/yy'
+
+                });
+
+
+            });
+            $(function () {
+                $("#expiryDate").datepicker({
+                    defaultDate: "+1w",
+                    minDate: 1,
+                    changeMonth: true,
+                    changeYear: true,
+                    beforeShowDay: unavailable,
+                    numberOfMonths: 1,
+                    dateFormat: 'dd/mm/yy'
+
+                });
+
+
+            });
+        });
+    </script>
+
+
+}

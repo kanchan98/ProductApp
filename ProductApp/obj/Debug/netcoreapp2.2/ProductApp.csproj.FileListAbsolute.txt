@@ -1,0 +1,136 @@
+D:\6 controller DAL\MyApps\QuizeApp\QuizeApp\bin\Debug\netcoreapp2.2\ProductApp.deps.json
+D:\6 controller DAL\MyApps\QuizeApp\QuizeApp\bin\Debug\netcoreapp2.2\ProductApp.runtimeconfig.json
+D:\6 controller DAL\MyApps\QuizeApp\QuizeApp\bin\Debug\netcoreapp2.2\ProductApp.runtimeconfig.dev.json
+D:\6 controller DAL\MyApps\QuizeApp\QuizeApp\bin\Debug\netcoreapp2.2\ProductApp.dll
+D:\6 controller DAL\MyApps\QuizeApp\QuizeApp\bin\Debug\netcoreapp2.2\ProductApp.pdb
+D:\6 controller DAL\MyApps\QuizeApp\QuizeApp\bin\Debug\netcoreapp2.2\ProductApp.Views.dll
+D:\6 controller DAL\MyApps\QuizeApp\QuizeApp\bin\Debug\netcoreapp2.2\ProductApp.Views.pdb
+D:\6 controller DAL\MyApps\QuizeApp\QuizeApp\obj\Debug\netcoreapp2.2\ProductApp.csprojAssemblyReference.cache
+D:\6 controller DAL\MyApps\QuizeApp\QuizeApp\obj\Debug\netcoreapp2.2\ProductApp.csproj.CoreCompileInputs.cache
+D:\6 controller DAL\MyApps\QuizeApp\QuizeApp\obj\Debug\netcoreapp2.2\ProductApp.RazorAssemblyInfo.cache
+D:\6 controller DAL\MyApps\QuizeApp\QuizeApp\obj\Debug\netcoreapp2.2\ProductApp.RazorAssemblyInfo.cs
+D:\6 controller DAL\MyApps\QuizeApp\QuizeApp\obj\Debug\netcoreapp2.2\ProductApp.AssemblyInfoInputs.cache
+D:\6 controller DAL\MyApps\QuizeApp\QuizeApp\obj\Debug\netcoreapp2.2\ProductApp.AssemblyInfo.cs
+D:\6 controller DAL\MyApps\QuizeApp\QuizeApp\obj\Debug\netcoreapp2.2\ProductApp.TagHelpers.input.cache
+D:\6 controller DAL\MyApps\QuizeApp\QuizeApp\obj\Debug\netcoreapp2.2\ProductApp.TagHelpers.output.cache
+D:\6 controller DAL\MyApps\QuizeApp\QuizeApp\obj\Debug\netcoreapp2.2\ProductApp.RazorCoreGenerate.cache
+D:\6 controller DAL\MyApps\QuizeApp\QuizeApp\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+D:\6 controller DAL\MyApps\QuizeApp\QuizeApp\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+D:\6 controller DAL\MyApps\QuizeApp\QuizeApp\obj\Debug\netcoreapp2.2\Razor\Views\Product\Create.g.cshtml.cs
+D:\6 controller DAL\MyApps\QuizeApp\QuizeApp\obj\Debug\netcoreapp2.2\Razor\Views\Product\Delete.g.cshtml.cs
+D:\6 controller DAL\MyApps\QuizeApp\QuizeApp\obj\Debug\netcoreapp2.2\Razor\Views\Product\Edit.g.cshtml.cs
+D:\6 controller DAL\MyApps\QuizeApp\QuizeApp\obj\Debug\netcoreapp2.2\Razor\Views\Product\Index.g.cshtml.cs
+D:\6 controller DAL\MyApps\QuizeApp\QuizeApp\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+D:\6 controller DAL\MyApps\QuizeApp\QuizeApp\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+D:\6 controller DAL\MyApps\QuizeApp\QuizeApp\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+D:\6 controller DAL\MyApps\QuizeApp\QuizeApp\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+D:\6 controller DAL\MyApps\QuizeApp\QuizeApp\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+D:\6 controller DAL\MyApps\QuizeApp\QuizeApp\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+D:\6 controller DAL\MyApps\QuizeApp\QuizeApp\obj\Debug\netcoreapp2.2\ProductApp.RazorTargetAssemblyInfo.cache
+D:\6 controller DAL\MyApps\QuizeApp\QuizeApp\obj\Debug\netcoreapp2.2\ProductApp.RazorTargetAssemblyInfo.cs
+D:\6 controller DAL\MyApps\QuizeApp\QuizeApp\obj\Debug\netcoreapp2.2\ProductApp.Views.pdb
+D:\6 controller DAL\MyApps\QuizeApp\QuizeApp\obj\Debug\netcoreapp2.2\ProductApp.dll
+D:\6 controller DAL\MyApps\QuizeApp\QuizeApp\obj\Debug\netcoreapp2.2\ProductApp.pdb
+D:\6 controller DAL\MyApps\QuizeApp\QuizeApp\obj\Debug\netcoreapp2.2\ProductApp.csproj.CopyComplete
+D:\6 controller DAL\MyApps\ProductApp\QuizeApp\obj\Debug\netcoreapp2.2\ProductApp.dll
+D:\6 controller DAL\MyApps\ProductApp\QuizeApp\obj\Debug\netcoreapp2.2\ProductApp.pdb
+D:\6 controller DAL\MyApps\ProductApp\QuizeApp\bin\Debug\netcoreapp2.2\ProductApp.deps.json
+D:\6 controller DAL\MyApps\ProductApp\QuizeApp\bin\Debug\netcoreapp2.2\ProductApp.runtimeconfig.json
+D:\6 controller DAL\MyApps\ProductApp\QuizeApp\bin\Debug\netcoreapp2.2\ProductApp.runtimeconfig.dev.json
+D:\6 controller DAL\MyApps\ProductApp\QuizeApp\bin\Debug\netcoreapp2.2\ProductApp.dll
+D:\6 controller DAL\MyApps\ProductApp\QuizeApp\bin\Debug\netcoreapp2.2\ProductApp.pdb
+D:\6 controller DAL\MyApps\ProductApp\QuizeApp\bin\Debug\netcoreapp2.2\ProductApp.Views.dll
+D:\6 controller DAL\MyApps\ProductApp\QuizeApp\bin\Debug\netcoreapp2.2\ProductApp.Views.pdb
+D:\6 controller DAL\MyApps\ProductApp\QuizeApp\obj\Debug\netcoreapp2.2\ProductApp.csprojAssemblyReference.cache
+D:\6 controller DAL\MyApps\ProductApp\QuizeApp\obj\Debug\netcoreapp2.2\ProductApp.csproj.CoreCompileInputs.cache
+D:\6 controller DAL\MyApps\ProductApp\QuizeApp\obj\Debug\netcoreapp2.2\ProductApp.RazorAssemblyInfo.cache
+D:\6 controller DAL\MyApps\ProductApp\QuizeApp\obj\Debug\netcoreapp2.2\ProductApp.RazorAssemblyInfo.cs
+D:\6 controller DAL\MyApps\ProductApp\QuizeApp\obj\Debug\netcoreapp2.2\ProductApp.AssemblyInfoInputs.cache
+D:\6 controller DAL\MyApps\ProductApp\QuizeApp\obj\Debug\netcoreapp2.2\ProductApp.AssemblyInfo.cs
+D:\6 controller DAL\MyApps\ProductApp\QuizeApp\obj\Debug\netcoreapp2.2\ProductApp.TagHelpers.input.cache
+D:\6 controller DAL\MyApps\ProductApp\QuizeApp\obj\Debug\netcoreapp2.2\ProductApp.TagHelpers.output.cache
+D:\6 controller DAL\MyApps\ProductApp\QuizeApp\obj\Debug\netcoreapp2.2\ProductApp.RazorCoreGenerate.cache
+D:\6 controller DAL\MyApps\ProductApp\QuizeApp\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+D:\6 controller DAL\MyApps\ProductApp\QuizeApp\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+D:\6 controller DAL\MyApps\ProductApp\QuizeApp\obj\Debug\netcoreapp2.2\Razor\Views\Product\Create.g.cshtml.cs
+D:\6 controller DAL\MyApps\ProductApp\QuizeApp\obj\Debug\netcoreapp2.2\Razor\Views\Product\Delete.g.cshtml.cs
+D:\6 controller DAL\MyApps\ProductApp\QuizeApp\obj\Debug\netcoreapp2.2\Razor\Views\Product\Edit.g.cshtml.cs
+D:\6 controller DAL\MyApps\ProductApp\QuizeApp\obj\Debug\netcoreapp2.2\Razor\Views\Product\Index.g.cshtml.cs
+D:\6 controller DAL\MyApps\ProductApp\QuizeApp\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+D:\6 controller DAL\MyApps\ProductApp\QuizeApp\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+D:\6 controller DAL\MyApps\ProductApp\QuizeApp\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+D:\6 controller DAL\MyApps\ProductApp\QuizeApp\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+D:\6 controller DAL\MyApps\ProductApp\QuizeApp\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+D:\6 controller DAL\MyApps\ProductApp\QuizeApp\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+D:\6 controller DAL\MyApps\ProductApp\QuizeApp\obj\Debug\netcoreapp2.2\ProductApp.RazorTargetAssemblyInfo.cache
+D:\6 controller DAL\MyApps\ProductApp\QuizeApp\obj\Debug\netcoreapp2.2\ProductApp.RazorTargetAssemblyInfo.cs
+D:\6 controller DAL\MyApps\ProductApp\QuizeApp\obj\Debug\netcoreapp2.2\ProductApp.Views.pdb
+D:\6 controller DAL\MyApps\ProductApp\QuizeApp\obj\Debug\netcoreapp2.2\ProductApp.csproj.CopyComplete
+D:\Prod\ProductApp\ProductApp\bin\Debug\netcoreapp2.2\ProductApp.deps.json
+D:\Prod\ProductApp\ProductApp\bin\Debug\netcoreapp2.2\ProductApp.runtimeconfig.json
+D:\Prod\ProductApp\ProductApp\bin\Debug\netcoreapp2.2\ProductApp.runtimeconfig.dev.json
+D:\Prod\ProductApp\ProductApp\bin\Debug\netcoreapp2.2\ProductApp.dll
+D:\Prod\ProductApp\ProductApp\bin\Debug\netcoreapp2.2\ProductApp.pdb
+D:\Prod\ProductApp\ProductApp\bin\Debug\netcoreapp2.2\ProductApp.Views.dll
+D:\Prod\ProductApp\ProductApp\bin\Debug\netcoreapp2.2\ProductApp.Views.pdb
+D:\Prod\ProductApp\ProductApp\obj\Debug\netcoreapp2.2\ProductApp.csprojAssemblyReference.cache
+D:\Prod\ProductApp\ProductApp\obj\Debug\netcoreapp2.2\ProductApp.csproj.CoreCompileInputs.cache
+D:\Prod\ProductApp\ProductApp\obj\Debug\netcoreapp2.2\ProductApp.RazorAssemblyInfo.cache
+D:\Prod\ProductApp\ProductApp\obj\Debug\netcoreapp2.2\ProductApp.RazorAssemblyInfo.cs
+D:\Prod\ProductApp\ProductApp\obj\Debug\netcoreapp2.2\ProductApp.AssemblyInfoInputs.cache
+D:\Prod\ProductApp\ProductApp\obj\Debug\netcoreapp2.2\ProductApp.AssemblyInfo.cs
+D:\Prod\ProductApp\ProductApp\obj\Debug\netcoreapp2.2\ProductApp.TagHelpers.input.cache
+D:\Prod\ProductApp\ProductApp\obj\Debug\netcoreapp2.2\ProductApp.TagHelpers.output.cache
+D:\Prod\ProductApp\ProductApp\obj\Debug\netcoreapp2.2\ProductApp.RazorCoreGenerate.cache
+D:\Prod\ProductApp\ProductApp\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+D:\Prod\ProductApp\ProductApp\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+D:\Prod\ProductApp\ProductApp\obj\Debug\netcoreapp2.2\Razor\Views\Product\Create.g.cshtml.cs
+D:\Prod\ProductApp\ProductApp\obj\Debug\netcoreapp2.2\Razor\Views\Product\Delete.g.cshtml.cs
+D:\Prod\ProductApp\ProductApp\obj\Debug\netcoreapp2.2\Razor\Views\Product\Edit.g.cshtml.cs
+D:\Prod\ProductApp\ProductApp\obj\Debug\netcoreapp2.2\Razor\Views\Product\Index.g.cshtml.cs
+D:\Prod\ProductApp\ProductApp\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+D:\Prod\ProductApp\ProductApp\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+D:\Prod\ProductApp\ProductApp\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+D:\Prod\ProductApp\ProductApp\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+D:\Prod\ProductApp\ProductApp\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+D:\Prod\ProductApp\ProductApp\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+D:\Prod\ProductApp\ProductApp\obj\Debug\netcoreapp2.2\ProductApp.RazorTargetAssemblyInfo.cache
+D:\Prod\ProductApp\ProductApp\obj\Debug\netcoreapp2.2\ProductApp.RazorTargetAssemblyInfo.cs
+D:\Prod\ProductApp\ProductApp\obj\Debug\netcoreapp2.2\ProductApp.Views.pdb
+D:\Prod\ProductApp\ProductApp\obj\Debug\netcoreapp2.2\ProductApp.dll
+D:\Prod\ProductApp\ProductApp\obj\Debug\netcoreapp2.2\ProductApp.pdb
+D:\Prod\ProductApp\ProductApp\obj\Debug\netcoreapp2.2\ProductApp.csproj.CopyComplete
+D:\Omni_Bridge\ProductApp\ProductApp\bin\Debug\netcoreapp2.2\ProductApp.deps.json
+D:\Omni_Bridge\ProductApp\ProductApp\bin\Debug\netcoreapp2.2\ProductApp.runtimeconfig.json
+D:\Omni_Bridge\ProductApp\ProductApp\bin\Debug\netcoreapp2.2\ProductApp.runtimeconfig.dev.json
+D:\Omni_Bridge\ProductApp\ProductApp\bin\Debug\netcoreapp2.2\ProductApp.dll
+D:\Omni_Bridge\ProductApp\ProductApp\bin\Debug\netcoreapp2.2\ProductApp.pdb
+D:\Omni_Bridge\ProductApp\ProductApp\bin\Debug\netcoreapp2.2\ProductApp.Views.dll
+D:\Omni_Bridge\ProductApp\ProductApp\bin\Debug\netcoreapp2.2\ProductApp.Views.pdb
+D:\Omni_Bridge\ProductApp\ProductApp\obj\Debug\netcoreapp2.2\ProductApp.csprojAssemblyReference.cache
+D:\Omni_Bridge\ProductApp\ProductApp\obj\Debug\netcoreapp2.2\ProductApp.csproj.CoreCompileInputs.cache
+D:\Omni_Bridge\ProductApp\ProductApp\obj\Debug\netcoreapp2.2\ProductApp.RazorAssemblyInfo.cache
+D:\Omni_Bridge\ProductApp\ProductApp\obj\Debug\netcoreapp2.2\ProductApp.RazorAssemblyInfo.cs
+D:\Omni_Bridge\ProductApp\ProductApp\obj\Debug\netcoreapp2.2\ProductApp.AssemblyInfoInputs.cache
+D:\Omni_Bridge\ProductApp\ProductApp\obj\Debug\netcoreapp2.2\ProductApp.AssemblyInfo.cs
+D:\Omni_Bridge\ProductApp\ProductApp\obj\Debug\netcoreapp2.2\ProductApp.TagHelpers.input.cache
+D:\Omni_Bridge\ProductApp\ProductApp\obj\Debug\netcoreapp2.2\ProductApp.TagHelpers.output.cache
+D:\Omni_Bridge\ProductApp\ProductApp\obj\Debug\netcoreapp2.2\ProductApp.RazorCoreGenerate.cache
+D:\Omni_Bridge\ProductApp\ProductApp\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+D:\Omni_Bridge\ProductApp\ProductApp\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+D:\Omni_Bridge\ProductApp\ProductApp\obj\Debug\netcoreapp2.2\Razor\Views\Product\Create.g.cshtml.cs
+D:\Omni_Bridge\ProductApp\ProductApp\obj\Debug\netcoreapp2.2\Razor\Views\Product\Delete.g.cshtml.cs
+D:\Omni_Bridge\ProductApp\ProductApp\obj\Debug\netcoreapp2.2\Razor\Views\Product\Edit.g.cshtml.cs
+D:\Omni_Bridge\ProductApp\ProductApp\obj\Debug\netcoreapp2.2\Razor\Views\Product\Index.g.cshtml.cs
+D:\Omni_Bridge\ProductApp\ProductApp\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+D:\Omni_Bridge\ProductApp\ProductApp\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+D:\Omni_Bridge\ProductApp\ProductApp\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+D:\Omni_Bridge\ProductApp\ProductApp\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+D:\Omni_Bridge\ProductApp\ProductApp\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+D:\Omni_Bridge\ProductApp\ProductApp\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+D:\Omni_Bridge\ProductApp\ProductApp\obj\Debug\netcoreapp2.2\ProductApp.RazorTargetAssemblyInfo.cache
+D:\Omni_Bridge\ProductApp\ProductApp\obj\Debug\netcoreapp2.2\ProductApp.RazorTargetAssemblyInfo.cs
+D:\Omni_Bridge\ProductApp\ProductApp\obj\Debug\netcoreapp2.2\ProductApp.Views.pdb
+D:\Omni_Bridge\ProductApp\ProductApp\obj\Debug\netcoreapp2.2\ProductApp.dll
+D:\Omni_Bridge\ProductApp\ProductApp\obj\Debug\netcoreapp2.2\ProductApp.pdb
+D:\Omni_Bridge\ProductApp\ProductApp\obj\Debug\netcoreapp2.2\ProductApp.csproj.CopyComplete

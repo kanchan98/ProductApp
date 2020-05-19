@@ -1,0 +1,41 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <br /><br />  <br /><br />
+    <h1 class="display-4">Welcome to Product App</h1>
+
+    <div style="text-align:center">
+        <div style="padding-top:23px;"></div>
+        <div class="form-group">
+            <input type="button" id="clicked" value="Register new Product" class="btn btn-primary" />
+
+
+        </div>
+    </div>
+</div>
+@section Scripts
+    {
+
+   
+    <script src="~/Layouts/vendor/jquery/jquery-ui.js"></script>
+
+    <link rel="stylesheet" href="//code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css">
+
+    <script>
+
+        $(document).ready(function () {
+        
+           
+            $('#clicked').click(function () {
+                //alert("in");
+                window.location.href = '@Url.Action("Create", "Product")';
+            });
+
+
+        })
+    </script>
+
+
+}
